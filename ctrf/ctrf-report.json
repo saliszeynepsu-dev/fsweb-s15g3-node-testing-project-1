@@ -1,0 +1,228 @@
+{
+  "results": {
+    "tool": {
+      "name": "jest"
+    },
+    "summary": {
+      "tests": 19,
+      "passed": 19,
+      "failed": 0,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 1788993719650,
+      "stop": 1788993719800
+    },
+    "tests": [
+      {
+        "name": "[Görev 1] nesneyiTrimle [1] propları trimlenmiş bir nesne döndürüyor",
+        "duration": 1,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 1] nesneyiTrimle"
+      },
+      {
+        "name": "[Görev 2] verileniTrimle [3] verilen propu trimliyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 2] verileniTrimle"
+      },
+      {
+        "name": "[Görev 2] verileniTrimle [4] verilen dışındaki proplar trimlenmeden döndürülüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 2] verileniTrimle"
+      },
+      {
+        "name": "[Görev 3] enBuyukTamsayiyiBul [5] bir dizi nesne içindeki en büyük tamsayiyi döndürüyor { tamsayi: 2 }",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 3] enBuyukTamsayiyiBul"
+      },
+      {
+        "name": "[Görev 4] Sayici [6] sayici.asagiSay ilk çağırılışında başlangıç sayışını yapıyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 4] Sayici"
+      },
+      {
+        "name": "[Görev 4] Sayici [7] sayici.asagiSay İKİNCİ çağırılışında başlangıç eksi 1 sayıyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 4] Sayici"
+      },
+      {
+        "name": "[Görev 4] Sayici [8] sayıcı sonunda sıfıra ulaşır ama daha aşağı saymaz",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 4] Sayici"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [9] mevsimler.sonraki İLK çağırılışında \"yaz\" döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [10] mevsimler.sonraki İKİNCİ çağırılışında \"sonbahar\" döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [11] mevsimler.sonraki ÜÇÜNCÜ çağırılışında \"kış\" döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [12] mevsimler.sonraki DÖRDÜNCÜ çağırılışında \"ilkbahar\" döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [13] mevsimler.sonraki BEŞİNCİ çağırılışında \"yaz\" döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 5] Mevsimler [14] mevsimler.sonraki KIRKINCI çağırılışında \"ilkbahar\" döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 5] Mevsimler"
+      },
+      {
+        "name": "[Görev 6] Araba [15] arabayı sürünce güncellenmiş odometer döndürüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 6] Araba [16] arabayı sürmek benzin tüketiyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 6] Araba [17] benzinalma arabayı sürmeye izin veriyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 6] Araba [18] dolu depoya benzin alma etki etmiyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 6] Araba"
+      },
+      {
+        "name": "[Görev 7] asenkronCiftSayi [19] bir çift sayı verilirse true çözümlüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 7] asenkronCiftSayi"
+      },
+      {
+        "name": "[Görev 7] asenkronCiftSayi [20] tek sayı verilirse false çözümlüyor",
+        "duration": 0,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "/Users/zeyysu/fsweb-s15g3-node-testing-project-1/index.test.js",
+        "retries": 0,
+        "flaky": false,
+        "suite": "index.test.js > [Görev 7] asenkronCiftSayi"
+      }
+    ]
+  }
+}
